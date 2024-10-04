@@ -12,6 +12,8 @@
 - 💬 Ask me about: **Vue, React, Spring Boot**
 - 📫 How to reach me: **francisco.padron86@gmail.com**
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frc90)](https://github.com/frc90/github-readme-stats)
+
 <!--
 **frc90/frc90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
