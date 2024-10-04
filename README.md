@@ -8,7 +8,7 @@
 
 - 👨‍💻 Software Developer
 - 🔭 I have worked with **React, Vue, Laravel, Spring Boot, PostgresSQL, MongoDB**
-- 🌱 I’m currently learning **Spring Boot, PostgresSQL, MongoDB** to improve mi skills
+- 🌱 I’m currently learning **Spring Boot, PostgresSQL, MongoDB** to improve my skills
 - 💬 Ask me about: **Vue, React, Spring Boot**
 - 📫 How to reach me: **francisco.padron86@gmail.com**
 - 🤙 More about me:
